@@ -3,10 +3,13 @@
 body {
     background-color: rgb(249, 252, 255);
     font-family: 'Noto Sans KR', sans-serif;
-    color: rgb(21, 11, 109)
+    color: #150b6d;
+    padding: 10px 40px 10px 40px;
+
 }
 footer {
     background-color: rgb(25, 23, 139);
     color: white;
     font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
 }

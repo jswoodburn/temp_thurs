@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+body {
+    background-color: rgb(249, 252, 255);
+    font-family: 'Noto Sans KR', sans-serif;
+    color: rgb(21, 11, 109)
+}
+footer {
+    background-color: rgb(25, 23, 139);
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif;
+}
